@@ -1,5 +1,4 @@
 # Sales-Analysis-Dashboard
-This dashboard blends KPIs, categorical breakdowns, and hierarchical drill-down capabilities, enabling deep exploration of sales drivers and performance trends
 This interactive Power BI dashboard delivers a comprehensive view of sales performance, order distribution, and product trends.
 
 # Page 1 – Overview & Product Insights
